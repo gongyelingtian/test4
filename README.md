@@ -47,3 +47,4 @@ return intinput;
 ```
 
 # 五·实验结果
+!{/github.com/gongyelingtian/test4/blob/main/结果.JPG}
